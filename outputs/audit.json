@@ -1,0 +1,13 @@
+{
+  "raw_count": 84,
+  "exact_duplicates_removed": 3,
+  "rejected_count": 4,
+  "retained_count": 77,
+  "channel_unknown_count": 2,
+  "priority_unknown_count": 2,
+  "handling_imputed_count": 3,
+  "satisfaction_unavailable_count": 3,
+  "handling_fill_median": 59.0,
+  "handling_mean": 59.589610389610385,
+  "handling_std_pop": 30.595274163617248
+}

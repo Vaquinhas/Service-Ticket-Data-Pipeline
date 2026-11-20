@@ -1,0 +1,5 @@
+ticket_id,opened_on,channel,priority,handling_minutes,satisfaction,rejection_reason
+T034,2026-10-32,email,medium,7.0,5.0,unparseable_date
+,2026-10-09,phone,high,45.4,1.0,missing_id
+T040,2026-10-10,email,medium,52.8,1.0,conflicting_id
+T040,2026-10-10,email,medium,999,1.0,conflicting_id
